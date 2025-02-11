@@ -115,7 +115,8 @@ strong:hover{
   background-color: var(--Light-grayish-blue-1);
 }
 .chess_img{
-margin-left: auto;
+  margin-left: auto;
+  cursor: pointer;
 }
 
 @media screen and (max-width:550px) {

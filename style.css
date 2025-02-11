@@ -89,7 +89,7 @@ strong:hover{
   color: var(--Blue);
 }
 .unread{
-  background-color: var(--Light-grayish-blue-1) !important;
+  background-color: var(--Very-light-grayish-blue) !important;
 }
 .unread p:first-of-type::after{
   content: " ";
